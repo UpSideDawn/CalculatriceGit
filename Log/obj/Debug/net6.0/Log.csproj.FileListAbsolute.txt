@@ -1,0 +1,12 @@
+C:\Users\frup86202\source\repos\Calculatrice\Log\bin\Debug\net6.0\Log.deps.json
+C:\Users\frup86202\source\repos\Calculatrice\Log\bin\Debug\net6.0\Log.dll
+C:\Users\frup86202\source\repos\Calculatrice\Log\bin\Debug\net6.0\Log.pdb
+C:\Users\frup86202\source\repos\Calculatrice\Log\obj\Debug\net6.0\Log.csproj.AssemblyReference.cache
+C:\Users\frup86202\source\repos\Calculatrice\Log\obj\Debug\net6.0\Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frup86202\source\repos\Calculatrice\Log\obj\Debug\net6.0\Log.AssemblyInfoInputs.cache
+C:\Users\frup86202\source\repos\Calculatrice\Log\obj\Debug\net6.0\Log.AssemblyInfo.cs
+C:\Users\frup86202\source\repos\Calculatrice\Log\obj\Debug\net6.0\Log.csproj.CoreCompileInputs.cache
+C:\Users\frup86202\source\repos\Calculatrice\Log\obj\Debug\net6.0\Log.dll
+C:\Users\frup86202\source\repos\Calculatrice\Log\obj\Debug\net6.0\refint\Log.dll
+C:\Users\frup86202\source\repos\Calculatrice\Log\obj\Debug\net6.0\Log.pdb
+C:\Users\frup86202\source\repos\Calculatrice\Log\obj\Debug\net6.0\ref\Log.dll

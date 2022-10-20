@@ -1,0 +1,15 @@
+C:\Users\frup86202\source\repos\Calculatrice\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\frup86202\source\repos\Calculatrice\Services\bin\Debug\net6.0\Services.dll
+C:\Users\frup86202\source\repos\Calculatrice\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\frup86202\source\repos\Calculatrice\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\frup86202\source\repos\Calculatrice\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frup86202\source\repos\Calculatrice\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\frup86202\source\repos\Calculatrice\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\frup86202\source\repos\Calculatrice\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\frup86202\source\repos\Calculatrice\Services\obj\Debug\net6.0\Services.dll
+C:\Users\frup86202\source\repos\Calculatrice\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\frup86202\source\repos\Calculatrice\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\frup86202\source\repos\Calculatrice\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\frup86202\source\repos\Calculatrice\Services\bin\Debug\net6.0\Log.dll
+C:\Users\frup86202\source\repos\Calculatrice\Services\bin\Debug\net6.0\Log.pdb
+C:\Users\frup86202\source\repos\Calculatrice\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
